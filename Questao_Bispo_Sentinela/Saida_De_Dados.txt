@@ -1,0 +1,14 @@
+Saída
+● Primeira linha: um inteiro k, a quantidade de peças que o bispo pode capturar em um
+único lance.
+● Segunda linha (apenas se k > 0): as k posições capturáveis, ordenadas
+lexicograficamente (por coluna e depois por linha), separadas por espaço.
+● Se k = 0, imprima apenas 0 na primeira linha.
+
+Exemplo 1 — Saída
+4  #Quantidade de peças inimigas capturáveis
+b3 b7 e6 f3  #Posições das peças
+
+Exemplo 2 — Saída
+1
+b2

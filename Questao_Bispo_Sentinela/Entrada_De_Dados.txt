@@ -1,0 +1,30 @@
+Entrada
+● Uma linha com a posição do bispo em notação algébrica (a1 a h8).
+● Uma linha com o inteiro n (0 ≤ n ≤ 63), o número de peças inimigas.
+● n linhas seguintes, cada uma com a posição de uma peça inimiga em notação
+algébrica.
+
+Exemplos:
+* Perceba que nos exemplos não temos strings de entrada, por exemplo: "digite a posição inicial
+do Bispo”, siga o mesmo padrão para todas as entradas e saídas de dados.
+
+Exemplo 1 — Entrada
+
+d5  #Posição do Bispo
+9   #Número de peças inimigas 
+b7  #Posições das peças inimigas 
+a8
+e6
+g8
+b3
+a2
+f3
+h1
+h7
+
+Exemplo 2 — Entrada
+a1
+3
+b2
+c3
+a8
